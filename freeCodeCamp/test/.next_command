@@ -96,3 +96,5 @@ more
 more index.js
 cd has
 cd ..
+cd node_modules
+cd ..
